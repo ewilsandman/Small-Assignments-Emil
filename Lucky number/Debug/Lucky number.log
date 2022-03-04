@@ -1,0 +1,5 @@
+﻿  Lucky number.cpp
+D:\Schoolwork FG\Small Assignments\Lucky number\Lucky number.cpp(26,26): warning C4018: '<': signed/unsigned mismatch
+D:\Schoolwork FG\Small Assignments\Lucky number\Lucky number.cpp(34,26): warning C4018: '<': signed/unsigned mismatch
+D:\Schoolwork FG\Small Assignments\Lucky number\Lucky number.cpp(64,5): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+  Lucky number.vcxproj -> D:\Schoolwork FG\Small Assignments\Debug\Lucky number.exe
